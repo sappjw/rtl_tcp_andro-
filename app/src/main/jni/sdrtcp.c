@@ -21,6 +21,7 @@
 #include <pthread.h>
 #include <unistd.h>
 #include <arpa/inet.h>
+#include <errno.h>
 
 #include "sdrtcp.h"
 #include "common.h"
